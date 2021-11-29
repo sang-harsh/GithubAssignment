@@ -1,0 +1,10 @@
+p{
+  color:blue;
+}
+span{
+  color:rgb(91, 168, 40);
+}
+ 
+.container > span{
+  color: red;
+}
